@@ -1,0 +1,16 @@
+{
+  "name": "sinet-game-of-life",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon --exec jasmine"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^2.8.0"
+  },
+  "dependencies": {}
+}
