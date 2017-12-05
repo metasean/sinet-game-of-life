@@ -33,3 +33,7 @@ A design is simple to the extent that it:
 ## [Pair Programming]()
 
 1. [Llewellyn’s strong-style pairing](http://llewellynfalco.blogspot.co.il/2014/06/llewellyns-strong-style-pairing.html) (reading)
+
+## [Additional Notes]
+
+- Wallaby [service](https://wallabyjs.com/) & [app](http://localhost:51245/)
